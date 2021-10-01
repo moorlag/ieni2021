@@ -14,6 +14,11 @@ De conferentie vindt plaats op donderdag 11 november, van 10:00-18:00 uur???
 De locatie is het Victor J. Koningsberger-gebouw, Budapestlaan 4a-b, 3584 CD Utrecht, op de Uithof (Utrecht Science Park).
 Dit is uitstekend bereikbaar via het OV, zoals met de Uithoflijn (tram 22, 12 min. van Utrecht CS centrumzijde naar de Uithof.)
 
+## Kosten en aanmelden
+
+De kosten van de conferentie zijn .. Euro; voor studenten .. Euro.
+Aanmelden via het formulier  <<link>>.
+
 ## Programma
 
 De samenvattingen van de sessies vind je onder [Programma]({{'/programma.html' | relative_url}}){:target="_blank"}
