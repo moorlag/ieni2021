@@ -1,2 +1,4 @@
-# testpages
-Repo to test Pages with Jekyll
+# i&i - conferentie 2021
+
+Jekyll/Lanyon-gebaseerde website.
+

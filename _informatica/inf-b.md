@@ -3,4 +3,4 @@ layout: informatica
 title: inf-b
 ---
 
-Dis is onderwerp B.
+Dit is onderwerp B.
