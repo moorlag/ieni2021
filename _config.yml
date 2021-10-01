@@ -1,0 +1,48 @@
+# Setup
+title:               'i&i conferentie 2021'
+tagline:             'informatica & digitale geletterdheid'
+description: >- # this means to ignore newlines until "baseurl:"
+  i&i - conferentie 2021
+  programma, presentaties & downloads
+url:                 ''
+baseurl:             '/ieni2021'
+paginate:            5
+permalink:           none
+
+# About/contact
+author:
+  name:              Eelco Dijkstra
+  url:               https://ieni.org
+  email:             eelco@infvo.com
+
+# Gems
+plugins:
+#  - jekyll-paginate
+  
+# Collections   
+collections:
+  algemeen:
+    output: true 
+  dg:
+    output: true
+  themas:
+    output: true
+  informatica:
+    output: true 
+
+# Custom vars
+version:             0.1.0
+# google_analytics_id: #UA-XXXX-Y
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
