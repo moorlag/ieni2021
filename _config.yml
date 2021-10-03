@@ -18,20 +18,20 @@ author:
 # Gems
 plugins:
 #  - jekyll-paginate
-  
-# Collections   
+
+# Collections
 collections:
   algemeen:
-    output: true 
+    output: true
   dg:
     output: true
   themas:
     output: true
   informatica:
-    output: true 
+    output: true
 
 # Custom vars
-version:             0.1.0
+version:             0.1.1
 # google_analytics_id: #UA-XXXX-Y
 
 
