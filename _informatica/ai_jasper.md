@@ -4,4 +4,4 @@ layout: informatica
 spreker: "Jasper Dukers"
 ---
 
-(presentatie met unplugged activiteiten)
+Presentatie met unplugged activiteiten

@@ -2,3 +2,5 @@
 
 Jekyll/Lanyon-gebaseerde website.
 
+
+Maintained by Eelco Dijkstra & Ramon Moorlag

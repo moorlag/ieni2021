@@ -16,9 +16,8 @@ Per sessie een link naar de bijbehorende pagina.
 
 ### Eerste stappen in de AI
 
-(workshop van Jasper Dukers)
+workshop van Jasper Dukers
 
 * [meer informatie](informatica/ai_jasper.html)
 
 ## Digitale geletterdheid
-
